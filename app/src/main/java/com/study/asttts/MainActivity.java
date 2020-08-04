@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bt_play.setOnClickListener(this);
 
         /*
-        初始化 管理类
+        初始化 管理类 git测试
          */
         manager = MyAudioManager.getInstance();
         manager.init();
